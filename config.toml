@@ -17,9 +17,9 @@ enableMissingTranslationPlaceholders = false
 [Params]
 
     # Souce Code repository section
-    description = "put your description"
-    github_repository = "https://github.com/thingsym/hugo-theme-techdoc"
-    version = "0.3.0"
+    description = "The online home of the Information and Statistics in Nuclear Experiment and Theory (ISNET) conference and journal series"
+    github_repository = "https://github.com/isnet-series/isnet-series.github.io"
+    version = ""
 
     # Documentation repository section
     # documentation repository (set edit link to documentation repository)
@@ -45,12 +45,22 @@ enableMissingTranslationPlaceholders = false
     ]
 
 # Global menu section
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+# [[menu.main]]
+#    name = "Home"
+#    url = "/"
+#    weight = 1
 
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/thingsym"
-    weight = 2
+#[[menu.main]]
+#    name = "Meetings"
+#    url = "https://twitter.com/thingsym"
+#    weight = 2
+
+#[[menu.main]]
+#    name = "Resources"
+#    url = "https://twitter.com/thingsym"
+#    weight = 3
+
+#[[menu.main]]
+#    name = "JPhysG Issues"
+#    url = "https://twitter.com/thingsym"
+#    weight = 4
