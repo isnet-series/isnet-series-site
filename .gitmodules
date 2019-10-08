@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/isnet-series/isnet-series.github.io.git
+	branch = master
