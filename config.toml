@@ -1,4 +1,4 @@
-baseURL = "http://isnet-series.github.io/"
+baseURL = "https://isnet-series.github.io/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "ISNET Series Website"
