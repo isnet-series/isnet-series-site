@@ -9,7 +9,10 @@ draft: false
 This site is the online home of the ISNET series of conferences and journals. Use the menu above to explore helpful statistics and physics resources such as articles, textbooks, and websites. There are also links to the websites of the related set of yearly meetings, where you can find slides and other resources identified at the meetings.
 
 ## History of ISNET
+
 [in progress]
+
+See [this editorial](https://iopscience.iop.org/article/10.1088/0954-3899/42/3/030301) in the Journal of Physics G and [this article](https://doi.org/10.1080/10619127.2013.793104) in Nuclear Physics News on the first ISNET workshop in Krakow.
 
 ## Other homepage material
 [in progress]
