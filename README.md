@@ -6,6 +6,8 @@ This guide tells you how to modify and update the ISNET series website if you ha
 
 This site is built using the open-source [Hugo static site generator](https://gohugo.io). The website and files live in this repository, and [git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) are used to connect with the isnet-series.github.io repository. You will need both git and hugo installed on your machine to work on the site.
 
+For a general reference on how to set up this site structure, see: [https://gohugo.io/hosting-and-deployment/hosting-on-github/](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
+
 This has only been tested on a Mac so far, and the site build script is a bash script, so this may not work on a Windows machine. But it should work on any Mac or Linux system with the above capabilities.
 
 The hugo site has already been set up in this repository, so you only need to make modifications to the existing pages or add new content, then use the provided build script to build and push the site to git.
