@@ -6,6 +6,7 @@ theme = "hugo-theme-techdoc"
 
 hasCJKLanguage = true
 metaDataFormat = "yaml"
+staticDir = "static"
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true

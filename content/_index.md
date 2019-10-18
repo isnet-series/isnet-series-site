@@ -6,7 +6,7 @@ draft: false
 
 # Welcome
 
-This site is the online home of the ISNET series of conferences and journals. Use the menu above to explore helpful statistics and physics resources such as articles, textbooks, and websites. There are also links to the websites of the related set of yearly meetings, where you can find slides and other resources identified at the meetings.
+This site is the online home of the ISNET series of conferences and journals. Use the menu to explore helpful statistics and physics resources such as articles, textbooks, and websites. There are also links to the websites of the related set of yearly meetings, where you can find slides and other resources identified at the meetings.
 
 ## History of ISNET
 
