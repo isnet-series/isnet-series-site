@@ -4,18 +4,18 @@ date: 2019-10-08T09:44:34-04:00
 draft: false
 ---
 
+# Announcement: ISNET-8
+
+ISNET-8 will officially take place at Michigan State University, East Lansing, MI, USA. Please see [this link](https://indico.frib.msu.edu/event/21/) for further information.
+
 # Welcome
 
 This site is the online home of the ISNET series of conferences and journals. Use the menu to explore helpful statistics and physics resources such as articles, textbooks, and websites. There are also links to the websites of the related set of yearly meetings, where you can find slides and other resources identified at the meetings.
 
 ## History of ISNET
 
-[in progress]
-
 See [this editorial](https://iopscience.iop.org/article/10.1088/0954-3899/42/3/030301) in the Journal of Physics G and [this article](https://doi.org/10.1080/10619127.2013.793104) in Nuclear Physics News on the first ISNET workshop in Krakow.
 
-## Other homepage material
-[in progress]
 
 ## Contact
 
