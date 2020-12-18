@@ -1,6 +1,6 @@
 ---
 title: "ISNET meetings"
-date: 2019-10-18T12:32:26-04:00
+date: 2020-12-18T00:00:01-04:00
 draft: false
 ---
 
@@ -21,4 +21,5 @@ Organizers: [Jacek Dobaczewski](https://www.york.ac.uk/physics/people/dobaczewsk
 - **2018**: [Uncertainty Quantification at the Extremes (ISNET-6)](https://indico.gsi.de/event/7534/) held in Darmstadt, Germany.<br>
 Organizers: [Dick Furnstahl](https://www.asc.ohio-state.edu/furnstahl.1/), [David Ireland](https://www.gla.ac.uk/schools/physics/staff/davidireland/), [Daniel Phillips](https://www.ohio.edu/cas/phillid1), [Ian Vernon](https://www.dur.ac.uk/research/directory/staff/?id=3289).
 - **2019**: [Bayesian Inference in Subatomic Physics: A Marcus Wallenberg Symposium](https://www.chalmers.se/en/conference/Bayesian%20Inference%20in%20Subatomic%20Physics/Pages/default.aspx) held in Gothenburg, Sweden.<br> Organizers: [Andreas Ekström](https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx), [Christian Forssén](https://www.chalmers.se/en/staff/Pages/christian-forssen.aspx), [Sarah Wesolowski](https://faculty.salisbury.edu/~scwesolowski).
-- **2020**: [Information and statistics in nuclear experiment and theory ISNET-8](https://indico.frib.msu.edu/event/21/) held at Michigan State University, East Lansing, USA from December 14th-18th.
+- **2020** [virtual meeting]: [Information and statistics in nuclear experiment and theory ISNET-8](https://indico.frib.msu.edu/event/21/) held at virtually and hosted by Michigan State University from December 14th-18th.
+- **2021**: This meeting is planned to be held in late 2021 at Michigan State University in East Lansing, USA after it was not possible to hold the in-person workshop in 2020.
