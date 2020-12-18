@@ -11,6 +11,12 @@ This pages lists meetings related to the ISNET series, with links to talks and o
 
 ## Meetings in 2020
 
+### Uncertainties in Calculations of Nuclear Reactions of Astrophysical Interest
+
+A [virtual workshop](https://indico.mitp.uni-mainz.de/event/215/) was hosted by the [Mainz Institute for Theoretical Physics](https://www.mitp.uni-mainz.de). 
+
+Available talks can be found on the [timetable page](https://indico.mitp.uni-mainz.de/event/215/timetable/#20201207).
+
 ### Artificial Intelligence for Nuclear Physics 2020
 
 A three-day workshop entitled ["A.I. for Nuclear Physics"](https://www.jlab.org/conference/AI2020) was held in 2020 at Jefferson Lab in Newport News, VA, USA. All talks from this meeting [can be found here](https://www.jlab.org/indico/event/357/timetable/#20200304).

@@ -7,4 +7,4 @@ draft: false
 Various meetings have been held throughout the world on topic of statistical methods in nuclear physics. Navigate using the left menu or click below to visit 
 
 - [All ISNET meetings](isnet/)
-- [APS DNP 2019](dnp-2019/)
+- [Related meetings](related-meetings/)

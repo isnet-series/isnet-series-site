@@ -4,9 +4,9 @@ date: 2019-10-08T09:44:34-04:00
 draft: false
 ---
 
-# Announcement: ISNET-8
+# Announcement: ISNET-9
 
-ISNET-8 will officially take place at Michigan State University, East Lansing, MI, USA. Please see [this link](https://indico.frib.msu.edu/event/21/) for further information.
+ISNET-9 is planned to take place in 2021 at Michigan State University, East Lansing, MI, USA. Further information TBA.
 
 # Welcome
 
