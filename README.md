@@ -30,6 +30,30 @@ The content of the site lives in `content/`, where individual folders for each l
 
 For more advanced tasks, see the theme documentation.
 
+## Submodule information
+
+This repository connects to the `isnet-series.github.io` repository via the directory `/public`. This directory is where hugo builds the site. Using git submodules, the created `/public` directory has a different remote than this repository. The contents of this directory are pushed to the `isnet-series.github.io` repository. This directly updates the live site.
+
+### Troubleshooting if site is not building
+
+If the site is not updating properly, it's possible that the submodule has not been added correctly. You may have to completely remove the submodule and then add it again. Try the following steps to remove the submodule (from the answer to [this stackexchange question](https://stackoverflow.com/questions/20929336/git-submodule-add-a-git-directory-is-found-locally-issue))
+
+1. Run `git rm --cached public` and `rm -rf public` to clean up the builds from git and the directory.
+2. Delete the relevant lines from the .gitmodules file. e.g. delete these:
+```
+[submodule "public"]
+	path = public
+	url = https://github.com/isnet-series/isnet-series.github.io.git
+	branch = master
+```
+3. Delete the relevant section from `.git/config`. e.g. delete these:
+```
+[submodule "public"]
+        url = https://github.com/isnet-series/isnet-series.github.io.git
+        active = true
+```
+4. Finally, remove the following `rm -rf .git/modules/public`
+
 ## Building and pushing the site
 
 Run the script (you may need to chmod) 
