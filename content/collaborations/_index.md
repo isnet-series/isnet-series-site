@@ -10,6 +10,6 @@ Page for collaborations related to ISNET and contact people/ websites for the co
 
 - [BUQEYE](https://buqeye.github.io). The online home of the Bayesian Uncertainty Quantification: Errors in Your EFT collaboration. Their work concerns quantifying and studying nuclear effective field theories using Bayesian statistics.
 
-- LENPIC
+- [LENPIC](http://www.lenpic.org)
 
 - [NUCLEI](http://nuclei.mps.ohio-state.edu)
