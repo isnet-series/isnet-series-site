@@ -16,7 +16,9 @@ The hugo site has already been set up in this repository, so you only need to ma
 
 Clone the repository locally using:
 
-`git clone https://github.com/isnet-series/isnet-series-site.git`
+`git clone --recursive https://github.com/isnet-series/isnet-series-site.git`
+
+You **must use the recursive option** or the site build will not work properly.
 
 The site can be run locally using hugo, simply use
 
