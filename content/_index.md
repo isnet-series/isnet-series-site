@@ -6,11 +6,11 @@ draft: false
 
 # Announcement: ISNET-9
 
-ISNET-9 is planned to take place in 2021 at Michigan State University, East Lansing, MI, USA. Further information TBA.
+ISNET-9 is planned to take place in 2021 at Michigan State University, East Lansing, MI, USA. Further information TBA. See the [meetings section](meetings/) for information about past meetings.
 
 # Welcome
 
-This site is the online home of the ISNET series of conferences and journals. Use the menu to explore helpful statistics and physics resources such as articles, textbooks, and websites. There are also links to the websites of the related set of yearly meetings, where you can find slides and other resources identified at the meetings.
+This site is the online home of the ISNET series of conferences and journals. The purpose of this site is to host information about meetings, publications, and to maintain a base of knowledge about statistics and nuclear physics resources such as articles, textbooks, and websites. 
 
 ## History of ISNET
 

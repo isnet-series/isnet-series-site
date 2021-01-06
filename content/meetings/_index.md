@@ -1,6 +1,6 @@
 ---
 title: "Meetings"
-date: 2019-10-08T09:55:19-04:00
+date: 2021-01-04T00:00:00-05:00
 draft: false
 ---
 

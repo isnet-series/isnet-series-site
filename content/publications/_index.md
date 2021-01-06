@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: 2021-01-04T00:00:00-05:00
+date: 2021-01-04T00:00:02-05:00
 draft: false
 ---
 
