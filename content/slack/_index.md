@@ -4,7 +4,7 @@ date: 2021-01-04T00:00:03-05:00
 draft: false
 ---
 
-Want to connect with others in the ISNET community? Join our Slack community! 
+Want to connect with others in the ISNET community? Join our Slack community!! (a)
 
 This is the place to connect, discuss, get help, and make suggestions for the knowledge base on this website! You may start a public discussion in the channels, or send a private message to connect with others.
 
