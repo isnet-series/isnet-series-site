@@ -8,7 +8,7 @@ draft: false
 The ISNET series of international meetings started in 2012 with a one-day workshop in Krakow, Poland and has been held since in both Europe and the United States. See [this editorial](https://iopscience.iop.org/article/10.1088/0954-3899/42/3/030301) in the Journal of Physics G and [this article](https://doi.org/10.1080/10619127.2013.793104) in Nuclear Physics News on the first ISNET workshop in Krakow.
 
 ## Upcoming meetings
-- **2023**: To Be Announced
+- **2023**: to be announced
 ## Past meetings
 - **2021**: [hybrid meeting:] [Information and Statistics in Nuclear Experiment and Theory 9](https://indico.frib.msu.edu/event/47/) hosted by Michigan State University from December 14th-16th.
 - **2020** [virtual meeting]: [Information and statistics in nuclear experiment and theory ISNET-8](https://indico.frib.msu.edu/event/21/) hosted by Michigan State University from December 14th-18th.
