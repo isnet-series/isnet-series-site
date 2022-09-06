@@ -1,3 +1,5 @@
+
+
 baseURL = "https://isnet-series.github.io/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
@@ -20,7 +22,7 @@ enableGitInfo = true
 
     # Souce Code repository section
     description = "The online knowledge base of the Information and Statistics in Nuclear Experiment and Theory (ISNET) series"
-    github_repository = "https://github.com/isnet-series/isnet-series"
+    github_repository = "https://github.com/isnet-series/isnet-series.github.io"
     version = ""
 
     # Documentation repository section
