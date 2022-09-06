@@ -8,12 +8,10 @@ draft: false
 The ISNET series of international meetings started in 2012 with a one-day workshop in Krakow, Poland and has been held since in both Europe and the United States. See [this editorial](https://iopscience.iop.org/article/10.1088/0954-3899/42/3/030301) in the Journal of Physics G and [this article](https://doi.org/10.1080/10619127.2013.793104) in Nuclear Physics News on the first ISNET workshop in Krakow.
 
 ## Upcoming meetings
-
-- **2021**: This meeting is planned to be held in late 2021 at Michigan State University in East Lansing, USA after it was not possible to hold the in-person workshop in 2020.
-
+- **2023**: To Be Announced
 ## Past meetings
-
-- **2020** [virtual meeting]: [Information and statistics in nuclear experiment and theory ISNET-8](https://indico.frib.msu.edu/event/21/) held at virtually and hosted by Michigan State University from December 14th-18th.
+- **2021**: [hybrid meeting:] [Information and Statistics in Nuclear Experiment and Theory 9](https://indico.frib.msu.edu/event/47/) hosted by Michigan State University from December 14th-16th.
+- **2020** [virtual meeting]: [Information and statistics in nuclear experiment and theory ISNET-8](https://indico.frib.msu.edu/event/21/) hosted by Michigan State University from December 14th-18th.
 - **2019**: [Bayesian Inference in Subatomic Physics: A Marcus Wallenberg Symposium](https://www.chalmers.se/en/conference/Bayesian%20Inference%20in%20Subatomic%20Physics/Pages/default.aspx) held in Gothenburg, Sweden.<br> Organizers: [Andreas Ekström](https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx), [Christian Forssén](https://www.chalmers.se/en/staff/Pages/christian-forssen.aspx), [Sarah Wesolowski](https://faculty.salisbury.edu/~scwesolowski).
 - **2018**: [Uncertainty Quantification at the Extremes (ISNET-6)](https://indico.gsi.de/event/7534/) held in Darmstadt, Germany.<br>
 Organizers: [Dick Furnstahl](https://www.asc.ohio-state.edu/furnstahl.1/), [David Ireland](https://www.gla.ac.uk/schools/physics/staff/davidireland/), [Daniel Phillips](https://www.ohio.edu/cas/phillid1), [Ian Vernon](https://www.dur.ac.uk/research/directory/staff/?id=3289).
