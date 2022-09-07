@@ -1,6 +1,6 @@
 ---
 title: "Welcome to ISNET"
-date: 2019-10-08T09:44:34-04:00
+date: 2022-09-06T09:44:34-04:00
 draft: false
 ---
 # Welcome
