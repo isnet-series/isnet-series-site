@@ -9,7 +9,7 @@ This site is the online home of the ISNET community. The purpose of this site is
 
 ## Become a member by joining our email list
 
-If you wish to become a member of ISNET and learn about our upcoming activities and the latest information, sign up to join our email list [here](https://lists.chalmers.se/mailman/listinfo/isnet). Note that you have to confirm you subscription by clicking a link in an email that is sent to the address you provide (check your spam folder). 
+If you wish to become a member of ISNET and learn about our upcoming activities and the latest information, join our email list [here](https://lists.chalmers.se/mailman/listinfo/isnet). Note that you have to confirm you subscription by clicking a link in an email that is sent to the address you provide (check your spam folder). 
 
 ## History of ISNET
 
