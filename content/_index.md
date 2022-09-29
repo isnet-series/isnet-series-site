@@ -18,6 +18,6 @@ See [this editorial](https://iopscience.iop.org/article/10.1088/0954-3899/42/3/0
 ## Contact
 
 This site is maintained by the [ISNET Board]({{< ref
-"/content/about/ISNET_board/_index.md" >}})cd . Please contact [Andreas
+"/content/about/ISNET_board/_index.md" >}}). Please contact [Andreas
 Ekström](mailto:andreas.ekstrom@chalmers.se) (Chalmers) if you have
 suggestions about materials for this website.
