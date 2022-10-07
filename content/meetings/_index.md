@@ -7,6 +7,8 @@ draft: false
 
 The ISNET series of international meetings started in 2012 with a one-day workshop in Krakow, Poland and has been held since in both Europe and the United States. See [this editorial](https://iopscience.iop.org/article/10.1088/0954-3899/42/3/030301) in the Journal of Physics G and [this article](https://doi.org/10.1080/10619127.2013.793104) in Nuclear Physics News on the first ISNET workshop in Krakow.
 
+Once a year the Board issues a call for proposals by sites who wish host the next ISNET conference. See the point 9 of the [ISNET Charter]({{< ref "/content/about/ISNET_charter/_index.md" >}}) for a general outline of the call.
+
 ## Upcoming meetings
 - **2023**:  May 22-26, Washington University, St. Louis
 ## Past meetings
