@@ -10,19 +10,19 @@ The ISNET series of international meetings started in 2012 with a one-day worksh
 Once a year the Board issues a call for proposals by sites who wish host the next ISNET conference. See the point 9 of the [ISNET Charter]({{< ref "/content/about/ISNET_charter/_index.md" >}}) for a general outline of the call.
 
 ## Upcoming meetings
-- **2023**:  May 22-26, Washington University, St. Louis
+- **2023**:  [ISNET-9](https://indico.cern.ch/event/1223721/), May 22-26, Washington University, St. Louis
 ## Past meetings
-- **2021**: [hybrid meeting:] [Information and Statistics in Nuclear Experiment and Theory 9](https://indico.frib.msu.edu/event/47/) hosted by Michigan State University from December 14th-16th.
-- **2020** [virtual meeting]: [Information and statistics in nuclear experiment and theory ISNET-8](https://indico.frib.msu.edu/event/21/) hosted by Michigan State University from December 14th-18th.
+- **2021**: [hybrid meeting:] [Information and Statistics in Nuclear Experiment and Theory ISNET-8](https://indico.frib.msu.edu/event/47/) hosted by Michigan State University from December 14th-16th.
+- **2020** [virtual meeting]: [Information and Statistics in Nuclear Experiment and Theory ISNET-8v](https://indico.frib.msu.edu/event/21/) hosted by Michigan State University from December 14th-18th.
 - **2019**: [Bayesian Inference in Subatomic Physics: A Marcus Wallenberg Symposium](https://www.chalmers.se/en/conference/Bayesian%20Inference%20in%20Subatomic%20Physics/Pages/default.aspx) held in Gothenburg, Sweden.<br> Organizers: [Andreas Ekström](https://www.chalmers.se/en/Staff/Pages/Andreas-Ekstrom.aspx), [Christian Forssén](https://www.chalmers.se/en/staff/Pages/christian-forssen.aspx), [Sarah Wesolowski](https://faculty.salisbury.edu/~scwesolowski).
 - **2018**: [Uncertainty Quantification at the Extremes (ISNET-6)](https://indico.gsi.de/event/7534/) held in Darmstadt, Germany.<br>
 Organizers: [Dick Furnstahl](https://www.asc.ohio-state.edu/furnstahl.1/), [David Ireland](https://www.gla.ac.uk/schools/physics/staff/davidireland/), [Daniel Phillips](https://www.ohio.edu/cas/phillid1), [Ian Vernon](https://www.dur.ac.uk/research/directory/staff/?id=3289).
 - **2017**: [Information and statistics in nuclear experiment and theory (ISNET-5)](https://www.york.ac.uk/physics/news/events/groups/nuclear-physics/isnet-5-workshop/) held in York, England.<br>
 Organizers: [Jacek Dobaczewski](https://www.york.ac.uk/physics/people/dobaczewski/), [David Ireland](https://www.gla.ac.uk/schools/physics/staff/davidireland/),
 [Witek Nazarewicz](https://frib.msu.edu/about/organization/staff/nazarewicz-profile.html)
-- **2016**: [Bayesian Methods in Nuclear Physics](http://www.int.washington.edu/PROGRAMS/16-2a/), held in Seattle, Washington, USA.<br>
+- **2016**: [Bayesian Methods in Nuclear Physics](https://archive.int.washington.edu/PROGRAMS/16-2a/), held in Seattle, Washington, USA.<br>
 Organizers: [Dick Furnstahl](https://www.asc.ohio-state.edu/furnstahl.1/), [Dave Higdon](https://www.stat.vt.edu/people/stat-faculty/higdon-david.html), [Nicolas Schunck](https://pls.llnl.gov/people/staff-bios/nacs/schunck-n), [Andrew Steiner](http://neutronstars.utk.edu)
-- **2015**: [Information and statistics in nuclear experiment and theory ISNET-3](https://www.ectstar.eu/node/1231), held in Trento, Italy<br>
+- **2015**: [Information and statistics in nuclear experiment and theory ISNET-3](https://www.ectstar.eu/workshops/information-and-statistics-in-nuclear-experiment-and-theory-isnet-3/), held in Trento, Italy<br>
 Organizers: [David Ireland](https://www.gla.ac.uk/schools/physics/staff/davidireland/), [Witek Nazarewicz](https://frib.msu.edu/about/organization/staff/nazarewicz-profile.html),
 Bartlomiej Szpak
 - **2013**: [ISNET: Information and Statistics in Nuclear Experiment and Theory](https://indico.cern.ch/event/253381/), held in Glasgow, Scotland, UK.<br>

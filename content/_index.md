@@ -1,6 +1,5 @@
 ---
 title: "Welcome to ISNET"
-date: 2022-09-06T09:44:34-04:00
 draft: false
 ---
 # Welcome
@@ -9,7 +8,7 @@ This site is the online home of the ISNET community. The purpose of this site is
 
 ## Become a member by joining our email list
 
-If you wish to become a member of ISNET and learn about our upcoming activities and the latest information, join our email list [here](https://lists.chalmers.se/mailman/listinfo/isnet). Note that you have to confirm your subscription by clicking a link in an email that is sent to the address you provide (check your spam folder). 
+If you wish to become a member of ISNET and learn about our upcoming activities and the latest information, join our email list [here](https://lists.chalmers.se/mailman/listinfo/isnet). Follow the same link to check/modify your subscription settings or get a password reminder. Note that you have to confirm your subscription by clicking a link in an email that is sent to the address you provide (check your spam folder). 
 
 ## History of ISNET
 
